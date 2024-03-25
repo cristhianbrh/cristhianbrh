@@ -1,4 +1,4 @@
-# My portfolio: ![https://cristhian-portfolio-pink.vercel.app/](https://cristhian-portfolio-pink.vercel.app/)
+# My portfolio: ![https://cristhian-portfolio-pink.vercel.app/]
 
 # 💫 About Me:
 🔭 I’m currently working on Vopper<br>🌱 I’m currently learning Angular<br>
